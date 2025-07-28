@@ -2,7 +2,6 @@
 
 - 💻 Desenvolvedor com foco em frontend
 - 🎓 Estudando Engenharia de Software no Centro Universitário Padre Anchieta e Análise e Desenvolvimento de Sistemas na UniCesumar
-- 🌱 Aprendendo mais sobre React
 
 ## Minhas Skills
 
