@@ -1,4 +1,4 @@
-# Hey, I'm Gabriel 👋
+# Hey, I'm Gabriel 👋🏾🧑🏾‍💻
 
 Software Engineering Intern at **Cielo** · Full Stack Developer · Always learning something new
 
