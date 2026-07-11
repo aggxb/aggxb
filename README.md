@@ -2,7 +2,7 @@
 
 Software Engineering Intern at **Cielo** · Full Stack Developer · Always learning something new
 
-I started on the front-end, building interfaces and prototypes. Curiosity pulled me deeper, and now I work across the full stack — from crafting UIs to designing APIs and handling business logic on the back-end.
+I started on the frontend, building interfaces and prototypes. Curiosity pulled me deeper, and now I work across the full stack, from crafting UIs to designing APIs and handling business logic on the backend.
 
 ---
 
